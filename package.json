@@ -1,6 +1,6 @@
 {
-  "name": "react-gamepad",
-  "version": "1.0.0",
+  "name": "react-gamepad-tl",
+  "version": "1.0.1",
   "description": "React hook for easy gamepad/controller integration",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -21,7 +21,7 @@
     "joystick",
     "input"
   ],
-  "author": "Your Name",
+  "author": "Shyam Achuthan",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -45,7 +45,7 @@
     "url": "git+https://github.com:shyam-achuthan/react-gamepad.git"
   },
   "bugs": {
-    "url": "https:/github.com:shyam-achuthan/react-gamepad/issues"
+    "url": "https://github.com/shyam-achuthan/react-gamepad/issues"
   },
-  "homepage": "hgithub.com:shyam-achuthan/react-gamepad#readme"
+  "homepage": "https://github.com/shyam-achuthan/react-gamepad#readme"
 }
